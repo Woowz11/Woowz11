@@ -1,3 +1,5 @@
+почему эта хрень снизу не грузится? они умерли что-ли???
+
 <div align="center">
   
 ![WOOWZ11 STATS PRO BOT](https://github-readme-stats.vercel.app/api?username=Woowz11&locale=ru&theme=shadow_red&border_radius=30&card_width=501px)
