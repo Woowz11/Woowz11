@@ -6,6 +6,6 @@
 
 ![WOOWZ POPOO](https://nirzak-streak-stats.vercel.app/?user=Woowz11&locale=ru&theme=shadow_red&border_radius=30&card_width=501px)
 
-![Check out Woowz11's profile on stardev.io](https://stardev.io/developers/Woowz11/badge/languages/country.svg)
+[![Check out Woowz11's profile on stardev.io](https://stardev.io/developers/Woowz11/badge/languages/global.svg)](https://stardev.io/developers/Woowz11)
 
 </div>
