@@ -1,4 +1,6 @@
 <div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Woowz11&theme=blood-dark&locale=ru&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
 ![WOOWZ11 STATS PRO BOT](https://github-readme-stats.vercel.app/api?username=Woowz11&locale=ru&theme=shadow_red&border_radius=30&card_width=501px)
 
@@ -19,5 +21,9 @@
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Woowz11&theme=radical)
 
 ![C#](https://img.shields.io/badge/Language-C%23-red)
+
+ЭТО ВАНЯ:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvankaKiller&theme=bear)
 
 </div>
