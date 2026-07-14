@@ -26,4 +26,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvankaKiller&theme=bear)
 
+<img src="https://pure-svg-countdown.skk.moe/timer?title=%D0%94%D0%BE%20%D1%80%D0%B0%D0%B7%D0%B1%D0%B0%D0%BD%D0%B0&finish=%D0%AF%20%D0%A0%D0%90%D0%97%D0%91%D0%90%D0%9D%D0%95%D0%9D%3F!!!&time=2027-12-02T00%3A00%3A00.000Z#.png">
+
 </div>
