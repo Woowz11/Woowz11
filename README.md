@@ -30,4 +30,6 @@
 
 👆 **Эта штука меня обманывает** 👆
 
+![](https://hit.yhype.me/github/profile?account_id=52042904)
+
 </div>
