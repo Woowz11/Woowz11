@@ -38,4 +38,7 @@ https://yhype.me/dashboard
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Woowz11&theme=coral)
 
+// я это удалю потом
+![](https://profile-render-fawn.vercel.app/?name=JavaScript&prog=90&color=yellow)
+
 </div>
