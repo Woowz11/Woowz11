@@ -1,5 +1,9 @@
 <div align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1461326645221916704?borderRadius=0&idleMessage=Я_ЕМ_ТВОИ_МОЗГИ_ПРЯМО_СЕЙЧАС_ОБЕРНИСЬ)](https://discord.com/users/1461326645221916704)
+
+![](https://profile-render-fawn.vercel.app/?type=icons&icons=cs,java,js,cpp,glua,lua,luau,c,ts,python,minecraft,gmod,roblox,sfd,win10,discord,youtube,nodejs,glfw,opengl,vulkan)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Woowz11&theme=blood-dark&locale=ru&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
 ![WOOWZ11 STATS PRO BOT](https://github-readme-stats.vercel.app/api?username=Woowz11&locale=ru&theme=shadow_red&border_radius=30&card_width=501px)
@@ -36,9 +40,7 @@ https://yhype.me/dashboard
 
 ![](https://komarev.com/ghpvc/?username=Woowz11)
 
-2026.08.19: 27
-2026.08.18: 7
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Woowz11&theme=coral)
+* 2026.08.19: 27
+* 2026.08.18: 7
 
 </div>
