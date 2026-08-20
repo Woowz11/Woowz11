@@ -6,6 +6,8 @@
 
 ![](https://profile-render-fawn.vercel.app/?type=icons&icons={sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk}&max_row=10&bg=rgba(255,0,0,0.5)&gap=50)
 
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={{icon=winxp,tip=TESTnbspHELP,size=1000}})
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Woowz11&theme=blood-dark&locale=ru&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
 ![WOOWZ11 STATS PRO BOT](https://github-readme-stats.vercel.app/api?username=Woowz11&locale=ru&theme=shadow_red&border_radius=30&card_width=501px)
