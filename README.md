@@ -1,8 +1,25 @@
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1461326645221916704?borderRadius=0&idleMessage=Я_ЕМ_ТВОИ_МОЗГИ_ПРЯМО_СЕЙЧАС_ОБЕРНИСЬ)](https://discord.com/users/1461326645221916704)
+# я 𐌸𐍈𐍈𐌸𐌶𐌹𐌹
 
-![](https://profile-render-fawn.vercel.app/?type=icons&icons=cs,java,js,cpp,glua,lua,luau,c,ts,python,minecraft,gmod,roblox,sfd,win10,discord,youtube,nodejs,glfw,opengl,vulkan)
+### Что мне нравится 🤗
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={cs,js,java,gmod,minecraft,github,obs})
+
+### Что я ненавижу 😡
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={py,godot,vsc,tt})
+
+### С чем у меня был опыт 😏
+
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={c,cpp,cs,glua,lua,luau,js,ts,nodejs,java,kt,nasm,py,sql,json,xml,svg,html,css,src,unity,unreal,github,vercel,love,electron,net,blender,flash,githubdesk,inkscape,gradle,npm,nuget,mvs,ps,robloxstudio,sublime,vsc,box2d,bullet,glfw,gl,vk}&max_row=11)
+
+### Контакты:
+![](https://profile-render-fawn.vercel.app/?type=icon&icon=ds)
+
+``god_of_lithium_universe``
+
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1461326645221916704?borderRadius=0&idleMessage=Я_ЕМ_ТВОИ_МОЗГИ_ПРЯМО_СЕЙЧАС_ОБЕРНИСЬ)](https://discord.com/users/1461326645221916704)
 
 ![](https://profile-render-fawn.vercel.app/?type=icons&icons={sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk}&max_row=10&bg=rgba(255,0,0,0.5)&gap=50)
 
