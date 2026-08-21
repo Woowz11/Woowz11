@@ -3,19 +3,21 @@
 # я 𐌸𐍈𐍈𐌸𐌶𐌹𐌹
 
 ### Что мне нравится 🤗
-![](https://profile-render-fawn.vercel.app/?type=icons&icons={cs,js,java,gmod,minecraft,github,obs})
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={cs,js,java,rider,gmod,minecraft,github,obs})
 
 ### Что я ненавижу 😡
 ![](https://profile-render-fawn.vercel.app/?type=icons&icons={py,godot,vsc,tt})
 
 ### С чем у меня был опыт 😏
 
-![](https://profile-render-fawn.vercel.app/?type=icons&icons={c,cpp,cs,glua,lua,luau,js,ts,nodejs,java,kt,nasm,py,sql,json,xml,svg,html,css,src,unity,unreal,github,vercel,love,electron,net,blender,flash,githubdesk,inkscape,gradle,npm,nuget,mvs,ps,robloxstudio,sublime,vsc,box2d,bullet,glfw,gl,vk}&max_row=11)
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={c,cpp,cs,glua,lua,luau,js,ts,nodejs,java,kt,nasm,py,sql,json,xml,svg,html,css,src,unity,unreal,github,vercel,love,electron,net,blender,flash,githubdesk,inkscape,gradle,npm,nuget,mvs,ps,robloxstudio,sublime,vsc,box2d,bullet,glfw,gl,vk,rider,intellij}&max_row=11)
 
 ### Контакты:
 ![](https://profile-render-fawn.vercel.app/?type=icon&icon=ds)
 
 ``god_of_lithium_universe``
+
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={golu,render,troll}&size=150&gap=150)
 
 ---
 
