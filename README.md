@@ -49,6 +49,8 @@
 
 ![C#](https://img.shields.io/badge/Language-C%23-red)
 
+![](https://profile-render-fawn.vercel.app/?type=debug&debug=trace)
+
 ЭТО ВАНЯ:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvankaKiller&theme=bear)
@@ -63,6 +65,9 @@ https://yhype.me/dashboard
 
 ![](https://komarev.com/ghpvc/?username=Woowz11)
 
+* 2026.09.04: 170
+* 2026.09.03: 167
+* 2026.09.02: 166
 * 2026.09.01: 163
 * 2026.08.30: 155
 * 2026.08.29: 150
