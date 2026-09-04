@@ -10,7 +10,7 @@
 
 ### С чем у меня был опыт 😏
 
-![](https://profile-render-fawn.vercel.app/?type=icons&icons={c,cpp,cs,glua,lua,luau,js,ts,nodejs,java,kt,nasm,py,sql,json,xml,svg,html,css,src,unity,unreal,github,vercel,love,electron,net,blender,flash,githubdesk,inkscape,gradle,npm,nuget,mvs,ps,robloxstudio,sublime,vsc,box2d,bullet,glfw,gl,vk,rider,intellij}&max_row=11)
+![](https://profile-render-fawn.vercel.app/?type=icons&icons={c,cpp,cs,glua,lua,luau,js,ts,nodejs,java,kt,nasm,py,sql,json,xml,svg,html,css,src,unity,unreal,github,vercel,redis,love,electron,net,blender,flash,githubdesk,inkscape,gradle,npm,nuget,mvs,ps,robloxstudio,sublime,vsc,box2d,bullet,bepu,glfw,gl,vk,itchio,rider,intellij}&max_row=11)
 
 ### Контакты:
 ![](https://profile-render-fawn.vercel.app/?type=icon&icon=ds)
