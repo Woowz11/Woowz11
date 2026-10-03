@@ -21,6 +21,10 @@
 
 ---
 
+![](https://profile-render-fawn.vercel.app/?type=timer&target=2027-10-03T00:00:00%2B03:00&desc=ДО+СОЗДАНИЯ+WOOWZCORE)
+
+![](https://profile-render-fawn.vercel.app/?type=timer&target=2027-12-02T00:00:00%2B03:00&desc=ДО+РАЗБАНА&t_bg=121212&t_c=ffffff&t_theme=00ffcc)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1461326645221916704?borderRadius=0&idleMessage=Я_ЕМ_ТВОИ_МОЗГИ_ПРЯМО_СЕЙЧАС_ОБЕРНИСЬ)](https://discord.com/users/1461326645221916704)
 
 ![](https://profile-render-fawn.vercel.app/?type=icons&icons={sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk,sfd,tg,gl,vk}&max_row=10&bg=rgba(255,0,0,0.5)&gap=50)
@@ -54,10 +58,6 @@
 ЭТО ВАНЯ:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvankaKiller&theme=bear)
-
-<img src="https://pure-svg-countdown.skk.moe/timer?title=%D0%94%D0%BE%20%D1%80%D0%B0%D0%B7%D0%B1%D0%B0%D0%BD%D0%B0&finish=%D0%AF%20%D0%A0%D0%90%D0%97%D0%91%D0%90%D0%9D%D0%95%D0%9D%3F!!!&time=2027-12-02T00%3A00%3A00.000Z#.png">
-
-👆 **Эта штука меня обманывает** 👆
 
 ![](https://hit.yhype.me/github/profile?account_id=52042904)
 
