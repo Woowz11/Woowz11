@@ -24,12 +24,15 @@
 Счёт с: 2026.10.05
 
 Срок: 3 месяца
+
 ![](https://profile-render-fawn.vercel.app/?type=timer&target=2027-01-05T00:00:00&desc=GOLU+WORLD+RELEASE&t_bg=003300&t_c=00ff00)
 
 Срок: 9 месяцев
+
 ![](https://profile-render-fawn.vercel.app/?type=timer&target=2027-10-05T00:00:00&desc=LITHIUM+UNIVERSE+RELEASE&t_bg=001a33&t_c=00ccff)
 
 Срок: 24 месяца
+
 ![](https://profile-render-fawn.vercel.app/?type=timer&target=2029-10-05T00:00:00&desc=WOOWZCORE+RELEASE&t_bg=330033&t_c=ff00ff)
 
 ---
